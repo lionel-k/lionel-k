@@ -33,5 +33,4 @@ Open to freelance, consulting, or senior engineering roles.
 ---
 
 ## Contact
-LinkedIn: [link]  
-Email: [email]  
+Email: lionel(dot)kubwimana(at)gmail.com
